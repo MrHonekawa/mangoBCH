@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #12172b;
+  background-color: /* #12172b */ #fff;
   font-family: "Poppins", sans-serif;
 }
 
